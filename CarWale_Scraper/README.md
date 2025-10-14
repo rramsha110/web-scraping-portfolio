@@ -8,6 +8,7 @@ The scraped data is saved into CSV files for easy analysis.
 * `carwale_scraper.ipynb` → Jupyter Notebook with the full scraping logic
 * `carwale_brands.csv` → Extracted car brands with links
 * `carwale_new_cars.csv` → Extracted car models, prices, and links
+* `Carwaale_Newcars.html` → Raw saved HTML page from CarWale (kept for reference & offline testing)
 
 ## 🛠 Tools & Libraries
 
