@@ -63,5 +63,3 @@ The scraped data is saved into CSV files for easy analysis.
 
 * This scraper is for **educational purposes only**.
 * Website structures may change, so scraping logic might need updates.
-
-Would you like me to also make a **main README.md** for your entire `web-scraping-portfolio` repo (like an index linking CarWale, Jobs, API scrapers), so everything stays nicely organized?
