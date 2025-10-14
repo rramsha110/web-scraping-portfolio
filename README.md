@@ -1,27 +1,14 @@
-🚗 CarWale New Cars Scraper
+🌐 Web Scraping Portfolio
 
-This project scrapes data from [CarWale - New Cars](https://www.carwale.com/new-cars/).  
-It extracts **car brands, models, prices, and links** from the CarWale website and saves the results into CSV files.
+A collection of Python web scraping projects using BeautifulSoup, Requests, and APIs.
 
-📂 Files in this Project
-- `Carwaale_Newcars.html` → raw saved HTML page
-- `carwale_brands.csv` → extracted car brands with links
-- `carwale_new_cars.csv` → extracted car models, prices, and links
-- `carwale_scraper.ipynb` → Python Jupyter Notebook with full scraping code
+📂 Projects
 
-🛠️ Tools Used
-- Python  
-- BeautifulSoup (HTML parsing)  
-- Regular Expressions (price extraction)  
-- CSV module (saving structured data)  
+1. [🚗 CarWale New Cars Scraper](./CarWale_Scraper)  
+   Scrapes car names, prices, and links from CarWale.
 
-🚀 How to Run
-1. Clone this repo:
-   ```bash
-git clone https://github.com/rramsha110/web-scraping-portfolio.git
-cd web-scraping-portfolio
-pip install beautifulsoup4 requests
-jupyter notebook carwaale_scraper.ipynb
-Run all cells to scrape and generate CSV files.
+2. 🧑‍💼 Jobs Scraper
+   Scrapes job postings with role, company, and location.
 
-   
+3. 🌍 API Scraper
+   Extracts structured data using open APIs.
