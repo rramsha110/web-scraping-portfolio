@@ -1,4 +1,3 @@
-
 * **`raw_html_jobs/page1.html`** → Raw saved HTML (reference copy of the scraped page)
 * **`job_scraper.ipynb`** → Notebook with scraping + extraction logic
 * **`jobs_all_pages.csv`** → Clean tabular output
@@ -11,14 +10,11 @@ It saves raw HTML pages for offline use, extracts **job title, company, location
 and stores the results into both **CSV** and **JSON** formats.
 
 
-
 ## 📂 Files in this Project
 - `raw_html_jobs/page1.html` → Example of a saved raw job listing page  
 - `job_scraper.ipynb` → Jupyter Notebook with full scraping + parsing logic  
 - `jobs_all_pages.csv` → Extracted job postings in CSV format  
 - `jobs_all_pages.json` → Extracted job postings in JSON format  
-
----
 
 ## 🛠 Tools Used
 - Python  
